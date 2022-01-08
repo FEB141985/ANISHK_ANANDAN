@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANISH KUMAR ANANDAN</h1>
+<h1 align="center">Hi 👋, I'm ANISH</h1>
 <h3 align="center">I'm a IT Enthusiast from India</h3>
 
 - 🔭 I’m currently learning [Linux/BSD](https://github.com/freebsd)
